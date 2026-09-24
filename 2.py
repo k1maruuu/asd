@@ -1,3 +1,1 @@
-dfgdf
-sdf
-asfr
+print(1)
